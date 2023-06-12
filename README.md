@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # Summary
 
-Hello! I am a **Senior Computer Science student** at **Texas State University**. While the bulk of my personal learning journey has been spent on web development, I plan to branch towards software engineering with focus on audio and data.
+Hello! I am a **Senior Computer Science student** at **Texas State University**.
