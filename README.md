@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Summary
+# Hello! Welcome to my Github Page
 
-Hello! I am a **Fullstack Developer**.
+I'm Gabe, a **Fullstack Developer** with a focus in web development and Computer Graphics. I'm currently looking for a full-time position to put my skills and expertise to use.
